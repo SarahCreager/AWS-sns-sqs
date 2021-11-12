@@ -1,0 +1,20 @@
+{
+  "name": "AWS-sns-sqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sns-publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahCreager/AWS-sns-sqs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahCreager/AWS-sns-sqs/issues"
+  },
+  "homepage": "https://github.com/SarahCreager/AWS-sns-sqs#readme"
+}
